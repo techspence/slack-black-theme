@@ -2065,7 +2065,7 @@ html.no_touch a.filetype_button_web:hover .file_title { color: #e6e6e6; }
 
 .c-pillow_file__description, .c-pillow_file__title { color: #e6e6e6; }
 
-.c-pillow_file__post__content .checkbox ul.checklist li.unchecked { color: #000000; }
+.c-pillow_file__post__content { color: #949494; }
 
 .p-file_list, .p-file_list__filters { background: #363636; }
 

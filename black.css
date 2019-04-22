@@ -26,6 +26,8 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .bullet { color: #949494; }
 
+.c-icon { color: red; }
+
 .alert, .c-alert, .c-alert--boxed { background-color: #363636; border-color: #000; color: #e6e6e6; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); }
 
 .alert h4, .c-alert h4, .c-alert--boxed h4 { color: #e6e6e6; }

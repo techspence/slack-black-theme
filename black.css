@@ -26,7 +26,8 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .bullet { color: #949494; }
 
-.c-icon_button--light, .c-icon_button--light.c-button-unstyled, .c-icon_button--light:link { color: red; }
+.c-icon_button--light, .c-icon_button--light.c-button-unstyled, .c-icon_button--light:link { color: gray; }
+.c-icon_button--light.c-button-unstyled:hover, .c-icon_button--light:hover, .c-icon_button--light:link:hover { color: white; }
 
 .alert, .c-alert, .c-alert--boxed { background-color: #363636; border-color: #000; color: #e6e6e6; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); }
 
